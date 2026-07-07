@@ -16,4 +16,3 @@ if st.button("Classify"):
         st.success(f"Prediction: {prediction[0]}")
     else:
         st.warning("Please enter some text.")
-        
